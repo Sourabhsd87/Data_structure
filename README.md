@@ -12,3 +12,5 @@ It also contains searching algorithm's -
 It also contains Sortings Algorithm's -
 1)Bubble Sorting
 2)Selection Sorting 
+3)Insertion Sorting
+4)Heap Sorting

@@ -6,7 +6,7 @@ public class Tester {
 		// TODO Auto-generated method stub
 		int [] arr= {54,25,48,53,76};
 		Algorithm.bubbleSort(arr);
-		System.out.print("Heap sort......")
+		System.out.print("----Bubble sort----")
 		for(int i:arr) {
 			System.out.print(i+",");
 		}

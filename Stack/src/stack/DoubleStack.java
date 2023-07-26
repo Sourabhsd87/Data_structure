@@ -9,6 +9,7 @@ public class DoubleStack {
 		this.size=size;
 		this.top1=-1;
 		this.top2=size;	
+		arr = new int [size];
 	}
 	public boolean isEmpty1() {
 		if(top1==-1) {
